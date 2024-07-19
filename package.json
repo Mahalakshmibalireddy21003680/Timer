@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "",
+  "homepage": "https://mahalakshmibalireddy21003680.github.io/Timer/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
